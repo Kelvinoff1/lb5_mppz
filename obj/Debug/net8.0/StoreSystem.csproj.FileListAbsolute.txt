@@ -1,0 +1,14 @@
+/Users/artemponomarenko/Downloads/StoreSystem 2/bin/Debug/net8.0/StoreSystem
+/Users/artemponomarenko/Downloads/StoreSystem 2/bin/Debug/net8.0/StoreSystem.deps.json
+/Users/artemponomarenko/Downloads/StoreSystem 2/bin/Debug/net8.0/StoreSystem.runtimeconfig.json
+/Users/artemponomarenko/Downloads/StoreSystem 2/bin/Debug/net8.0/StoreSystem.dll
+/Users/artemponomarenko/Downloads/StoreSystem 2/bin/Debug/net8.0/StoreSystem.pdb
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.AssemblyInfoInputs.cache
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.AssemblyInfo.cs
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.csproj.CoreCompileInputs.cache
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.dll
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/refint/StoreSystem.dll
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.pdb
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/StoreSystem.genruntimeconfig.cache
+/Users/artemponomarenko/Downloads/StoreSystem 2/obj/Debug/net8.0/ref/StoreSystem.dll
